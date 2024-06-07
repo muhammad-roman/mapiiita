@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643803353198",
+    "project_id": "mapiiita-716fc",
+    "storage_bucket": "mapiiita-716fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643803353198:android:aa14593ffa2e88bdfb567f",
+        "android_client_info": {
+          "package_name": "com.example.mapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0v5NX32hC9NJPg8DyZqzRpyJ-zBos9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
